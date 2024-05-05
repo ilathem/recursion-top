@@ -31,6 +31,7 @@ const mergeSort = (array) => {
 console.log(mergeSort([5, 2, 1, 6, 3, 4]));
 console.log(mergeSort([3, 2, 1, 13, 8, 5, 0, 1]));
 console.log(mergeSort([105, 79, 100, 110]));
+  // if (array.length === 0) return [];
 // console.log(mergeSort([5, 2, 1]));
 // console.log(merge([5], [1, 2]));
 // console.log(merge([5], [2]));
